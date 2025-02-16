@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 *.sol linguist-language=Solidity
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+>>>>>>> 1b8e9d60031368926cb5a65d5417368c1bbc0195

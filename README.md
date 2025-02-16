@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Truffle Box
 
 This box comes with everything you need to start using Truffle to write, compile, test, and deploy smart contracts, and interact with them from a React app.
@@ -37,3 +38,7 @@ From there, follow the instructions on the hosted React app. It will walk you th
 - __Where can I find more resources?__
 
   This Box is a sweet combo of [Truffle](https://trufflesuite.com) and [Webpack](https://webpack.js.org). Either one would be a great place to start!
+=======
+# WebProject
+ WebProject Description
+>>>>>>> 1b8e9d60031368926cb5a65d5417368c1bbc0195
